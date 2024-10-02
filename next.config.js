@@ -5,9 +5,9 @@ const nextConfig = {
   compiler: {
     styledComponents: true,
   },
-  images : {
-    domains : ['pngimg.com'],
-  }
+  images: {
+    domains: ["pngimg.com", "media.graphassets.com", "ap-south-1.graphassets.com"],
+  },
 };
 
 module.exports = nextConfig;
